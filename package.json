@@ -1,0 +1,19 @@
+{
+  "name": "tinycast-chat",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Lepinski"
+  },
+  "description": "tinycast websocket server",
+  "main": "main.js",
+  "license": "MIT",
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.7.x"
+  },
+  "dependencies": {
+    "maxmind-db-reader": "^0.2.0",
+    "websocket": "1.0.x"
+  },
+  "readmeFilename": "README.md"
+}

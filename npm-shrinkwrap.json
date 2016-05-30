@@ -1,0 +1,23 @@
+{
+  "name": "tinycast-chat",
+  "version": "1.0.0",
+  "dependencies": {
+    "maxmind-db-reader": {
+      "version": "0.2.0",
+      "from": "maxmind-db-reader@*",
+      "resolved": "https://registry.npmjs.org/maxmind-db-reader/-/maxmind-db-reader-0.2.0.tgz",
+      "dependencies": {
+        "big-integer": {
+          "version": "1.4.4",
+          "from": "big-integer@>=1.1.5",
+          "resolved": "https://registry.npmjs.org/big-integer/-/big-integer-1.4.4.tgz"
+        }
+      }
+    },
+    "websocket": {
+      "version": "1.0.8",
+      "from": "websocket@1.0.x",
+      "resolved": "https://registry.npmjs.org/websocket/-/websocket-1.0.8.tgz"
+    }
+  }
+}
